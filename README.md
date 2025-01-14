@@ -1,7 +1,7 @@
 ## Hi there 👋
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Sercan+Ayvaz.%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;I+am+a+computer+programmer.%F0%9F%92%BB" alt="Typing SVG" /></a>
-  Hello! I am Sercan Ayvaz, a software developer with a degree 
-in computer programming.
+  <h3><code>Hello! I am Sercan Ayvaz, a software developer with a degree 
+in computer programming.</code><h3>
 
   I have experience in languages ​​such as C#, Python and MySQL, 
 and my passion for software development processes constantly 
