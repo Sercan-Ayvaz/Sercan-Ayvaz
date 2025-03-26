@@ -18,15 +18,17 @@ in computer programming.🧑‍💻</code><h2>
 <a href ="https://visualstudio.microsoft.com/en/"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" alt="Typing .ico"></a>   
 <a href ="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="Typing .ico"></a> 
 <a href ="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Typing .ico"></a> 
+<a href ="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="Typing .ico"></a> 
 </div>
 <h2>Socials<h2>   
 <a href="https://github.com/Sercan-Ayvaz"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="Typing WEBP"></a>   
 <a href ="https://www.linkedin.com/in/sercan-ayvaz/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="Typing PNG"></a> 
 
-   
 
    
-   
+<!--
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sercan-Ayvaz&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sercan-Ayvaz&layout=compact&theme=radical)  
    
    
    
