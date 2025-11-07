@@ -2,14 +2,13 @@
    <h2><code>Hello! I am Sercan AYVAZ, a software developer with a degree 
 in computer programming.🧑‍💻</code><h2>
 
- <h3><code>🔗 I'm currently working on improving myself. 📕</code><h3>
- <h3><code>🔗 I am currently trying to learn C# and Python. 💻</code><h3>
- <h3><code>🔗 I want to collaborate with excited people on developing projects. 👥</code><h3>
- <h3><code>🔗 I am looking for help with people I can work with. 🆘</code><h3>
- <h3><code>🔗 I am looking for help with business to improve myself in the sector.  🆘</code><h3>
- <h3><code>🔗 Ask me about the software and I will help you as much as I can. 💬</code><h3>
+ <h3><code>📕 I'm learning and growing as a developer every day!</code><h3>
+ <h3><code>💻 Currently diving into C# and Python.</code><h3>
+ <h3><code>👥 Love working with motivated people on fun and meaningful projects</code><h3>
+ <h3><code>🧠 Always open to learning, sharing, and improving together.</code><h3>
+ <h3><code>💬 Ask me anything about software — I'll do my best to help!</code><h3>
+ <h3><code>✉️ Reach me at sercanayvzz@gmail.com</code><h3>
  
- <h3><code>👉 You can reach me at: sercanayvzz@gmail.com ✉️</code><h3>
 <h2>Skills<h2>
 <div>
 <a href ="https://learn.microsoft.com/tr-tr/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs&theme=dark" alt="Typing .ico"  ></a>  
