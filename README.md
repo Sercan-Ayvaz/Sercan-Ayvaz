@@ -71,12 +71,5 @@ I love collaborating with motivated people, learning by doing, and continuously 
 
 ---
 
-### 📊 **GitHub Stats**
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sercan-Ayvaz&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sercan-Ayvaz&layout=compact&theme=radical" height="165"/>
-</div>
-
----
 
